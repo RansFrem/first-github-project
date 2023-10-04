@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First code</title>
+</head>
+
+<body>
+    <h1>Ransford</h1>
+    <i>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, enim dolorum! Voluptatum, ea distinctio?
+            Veniam illo quisquam minus officia minima nemo ea aliquam voluptatibus consequuntur voluptate, nisi at
+            corrupti
+            animi.</p>
+    </i>
+    <p>Kweku</p>
+    <p>Kweku</p>
+    <button>KD</button>
+    <button>KD</button>
+    <div>
+        <b>Bold</b>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, enim dolorum! Voluptatum, ea distinctio?
+            Veniam illo quisquam minus officia minima nemo ea aliquam voluptatibus consequuntur voluptate, nisi at
+            corrupti
+            animi.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, enim dolorum! Voluptatum, ea distinctio?
+            Veniam illo quisquam minus officia minima nemo ea aliquam voluptatibus consequuntur voluptate, nisi at
+            corrupti
+            animi.</p>
+    </div>
+    <a href="https://discord.gg/frontend"target="_blank">Pilolo</a>
+
+    <!--create a  link that opens up dashboard in a new tab-->
+
+    <a href="/dashboard.html" target="_blank">Open a new tab for DASHBOARD</a>
+</body>
+
+</html>
